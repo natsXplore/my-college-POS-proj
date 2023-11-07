@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Jonathan Abiva Point of Sale
+</name>
+</assembly>
+<members>
+<member name="T:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.add_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.cancel_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.Delete_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.edit_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.more_info_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.print_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.product_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.refresh_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.save_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.save_50px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.sign_out_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jonathan_Abiva_Point_of_Sale.My.Resources.Resources.update_50px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
